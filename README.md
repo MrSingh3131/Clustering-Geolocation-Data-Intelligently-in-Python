@@ -24,3 +24,14 @@ The project on Clustering Geolocation Data is divided into following tasks:
 - Task 5: Introduction to density-based clustering approaches, and how to use DBSCAN
 - Task 6: Introduction to HDBSCAN, to alleviate constraints of classical DBSCAN
 - Task 7: A simple method to address outliers classified by density-based models
+
+
+
+### CERTIFICATE DETAILS
+
+- Name: Clustering Geolocation Data Intelligently in Python
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: P6HJEQH5DJ8K
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/P6HJEQH5DJ8K
